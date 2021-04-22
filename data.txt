@@ -1,0 +1,4 @@
+3050 unique positions after 10 moves
++16579 -16690 =5531
+Player 1: 254ms per move. Player 2: 263ms per move.
+Player 2 won the match
